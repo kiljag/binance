@@ -48,7 +48,7 @@ for k, ok := <- klinesChannel {
 
 
 ### Account Service
-1. Placing a trade (LIMIT, MARKET, etc..)
+To pull account related details and to place and cancel orders
 
 
 ```golang
